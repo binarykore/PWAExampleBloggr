@@ -1,6 +1,7 @@
 {
 	"name": "Technical Geek",
-	"short_name": "techgeek.io",
+	"gcm_user_visible_only":true,
+	"short_name": "Technical Geek",
 	"icons": [
 		{
 			"src": "https://raw.githubusercontent.com/binarykorra/PWAExampleBloggr/main/192x192.png",
@@ -15,9 +16,10 @@
 			"purpose": "any maskable"
 		}
 	],
-	"theme_color": "#ffffff",
-	"background_color": "#ffffff",
+	"theme_color": "#f0f0f0",
+	"background_color": "#e6ecf0",
 	"display": "standalone",
+	"orientation":"portrait-primary",
 	"prefer_related_applications": false,
 	"start_url": "https://www.technicalgeek.ml"
 }
