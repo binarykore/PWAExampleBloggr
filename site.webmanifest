@@ -3,13 +3,13 @@
 	"short_name": "techgeek.io",
 	"icons": [
 		{
-			"src": "https://1.bp.blogspot.com/-d0C_O0mrXeY/YLQVHUEqGnI/AAAAAAAAx7k/tJ3KDbg9WKEkRCMqJwrkYUFpziIYR1wGgCLcBGAsYHQ/s0/android-chrome-192x192.png",
+			"src": "https://raw.githubusercontent.com/binarykorra/PWAExampleBloggr/main/192x192.png",
 			"sizes": "192x192",
 			"type": "image/png",
 			"purpose": "any maskable"
 		},
 		{
-			"src": "https://1.bp.blogspot.com/-WnA3PC1IzNs/YLQVHTwbu_I/AAAAAAAAx7s/2JmVQL0QGekRlnCa4bzjKhWXOQNMXcLWQCLcBGAsYHQ/s16000/android-chrome-512x512.png",
+			"src": "https://raw.githubusercontent.com/binarykorra/PWAExampleBloggr/main/512x512.png",
 			"sizes": "512x512",
 			"type": "image/png",
 			"purpose": "any maskable"
