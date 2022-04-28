@@ -1,0 +1,23 @@
+{
+	"name": "Technical Geek",
+	"gcm_user_visible_only":true,
+	"short_name": "Technical Geek",
+	"icons": [
+	{
+		"src": "https://raw.githubusercontent.com/binarykorra/PWAExampleBloggr/main/favicon.png",
+		"sizes": "96x96 128x128 144x144",
+		"type": "image/png"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/binarykorra/PWAExampleBloggr/main/favicon.png",
+		"sizes": "48x48 72x72",
+		"type": "image/png"	
+	}
+	],
+	"theme_color": "#f0f0f0",
+	"background_color": "#e6ecf0",
+	"display": "standalone",
+	"orientation":"portrait-primary",
+	"prefer_related_applications": false,
+	"start_url": "https://tools.technicalgeek.ml"
+}
