@@ -19,5 +19,5 @@
 	"display": "standalone",
 	"orientation":"portrait-primary",
 	"prefer_related_applications": false,
-	"start_url": "https://www.snowkel.us"
+	"start_url": "https://tools.snowkel.us"
 }
